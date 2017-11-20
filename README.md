@@ -10,4 +10,4 @@ localhost:8080/redisOP/getValue?key=Boot
 
 localhost:8080/redisOP/getValueRediSson
 
-jedis获取Master服务失败时会有邮件提醒，邮件的配置请自行配置。
+## jedis获取Master服务失败时会有邮件提醒，邮件的配置请自行配置。
